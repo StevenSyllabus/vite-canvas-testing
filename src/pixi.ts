@@ -10,3 +10,4 @@ let app = new PIXI.Application({
 });
 
 pixiContainer.appendChild(app.view);
+console.log(`hello world`);
